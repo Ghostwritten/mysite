@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Pygame/.idea/Pygame.iml" filepath="$PROJECT_DIR$/../Pygame/.idea/Pygame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../crawl/.idea/crawl.iml" filepath="$PROJECT_DIR$/../crawl/.idea/crawl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dbscale/.idea/dbscale.iml" filepath="$PROJECT_DIR$/../dbscale/.idea/dbscale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mysite.iml" filepath="$PROJECT_DIR$/.idea/mysite.iml" />
+    </modules>
+  </component>
+</project>
